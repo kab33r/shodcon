@@ -1,7 +1,7 @@
 # shodcon
 Shodan Recon for BBH
 
-# Automated Reconnaissance Tool for Bug Bounty
+# Automated Reconnaissance Script for Bug Bounty
 
 ## Introduction
 This tool automates the process of reconnaissance in bug bounty hunting. It is designed to help security researchers and bug bounty hunters gather essential information about multiple target domains quickly and efficiently.
